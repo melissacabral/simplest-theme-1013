@@ -1,0 +1,15 @@
+/*
+Theme Name: Simplest Theme Ever!
+Description: Basic theme for learning how to theme from scratch
+Author: Melissa Cabral
+Author URI: http://wordpress.melissacabral.com
+Version: 0.1
+License: GPLv3 or higher
+
+any other comments can go here
+*/
+
+body{
+	background-color: #B5D2CE;
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
